@@ -1,0 +1,6 @@
+数据库名：student
+用户名：root
+密码:root
+
+用户登录帐户名：admin
+密码:admin
